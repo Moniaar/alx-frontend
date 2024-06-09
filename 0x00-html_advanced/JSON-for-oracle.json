@@ -1,0 +1,51 @@
+[
+    {
+        "domain": ".login-ext.identity.oraclecloud.com",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "notice_behavior",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "implied,us"
+    },
+    {
+        "domain": "login-ext.identity.oraclecloud.com",
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "ORA_OCIS_1",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "XBwBcJ4mCGShhv2KJ8Wji0MWmevsCry1569XT0QacdGGWZEZMNo3coKpf3tm1hhYDiJ6SCYW5CwSJqHzjJkpylSyDaDRmkIucvpbuFRI0YkLNeD0nSWUP/1X+9YDHv3poXuSuo52dVFJgi1z+di+tgCK5NKJ+xkbuZ0B2v8FY3pdLEa/P1aPGtu+rl4puSlHTQMJXTSAzF42hKAXDca/XjK4LwFsceCaCo6B0xEkki6AyOa9OsH+Nn2H1Gk7Ghu+0fJPh497l8YnAlItxoeNyFU/Y3UmNJYx7o2PmyzmdON6SoqpjtFzIRCHi/scgfVeWhZJky6aDpZi3ucLLk+v2KDx2CH5XJG3I45B0TOmJ60ng8GzrdLqjDj92r8kGWoE7o73u7WVWG/RapqjbWgmU4NbSriTz6QtvzL2mvIeRG60oqMrdiznznodqSFDvnrcCJmW0qxoSvEGG+GY8caiub0+cruX6f1ngrrLsfFd0HHtAuJtKncW+slWySLVcvOjWc4VNgxK3nPbnUhvUzIuCQKRTi0/wa6JoL33uq1AydVIWPbPodblqbJWN2S/8KKS/4uslRrq66RrZQOxLo1EplHAoptLbgo6oGXgcJE2XUyPy/ha0/rE6RISDyvDMLAIn+/B18alOjEq4dMDCR8nnMbwqu7xxzf1pjPiQtjwQ6xuDPecUpN534/1PkMOGpyJKiimyS7hN7WKEMCCcnzDaXCetkcyzlkEL58JFA08HJhaumhaD1xg5RrBY3aJwKFqIISzHALBqMfgeWZgUthPmiWVIprh/7r1CDLDPhLgJ2yaxrgNPAslOldjQyuN4ufAciK+zKIfPGBE9Qol8GOKTedExTVXXhQ1YnQVfnyYU+8nVgqibc/+3kAGje4mwcTv/aOzdGO60uePyXphSjX4pUfcYS/u6BavT+oJlo/Na54d8qBsJZs121mw4EkPcjulQ5pJcT6UwceuxGCntmNJPt4Nm5FNGyxahP1QlOkF4oG13PWifN0h4DzE47XOV22rNcvwiGzHTt3Z5lSvSEtS/hzr25IrGopFzRkUGefG/bAJMCU8jve9+BxhwnRD9U8W4XSd7N9EZEesqci0jZWz52C6YXdlhQGkVq7SX6UKwgnIDCv8uYtwOXQQuFwB8oLmDGi/2GJFIf1icWxwexIy9gNpisE1dUqfI644ZB+Q0iygRPm9h52VuAFrEpjDR1ZwnfTIjVMEdAYTmUCRDN5yvIFhK5R/Fw00qD6ry55K/FU~qTJACNM7hyr1Cn6Ktp7jplkJKjGxNG4SJ1Ceenxgsdk"
+    },
+    {
+        "domain": ".login-ext.identity.oraclecloud.com",
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "ORA_OCIS_CG_SESSION_login-ext_login-ext.identity.oraclecloud.com",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "6QgAAK8IAAAQIK8IAACVCAAAEAATXPaZJ8izybVOQQwj2lgv7Xr-tV8si7urJEKJITXwwJ3_79O5-qbKllXsMx306-CGKqMdaGsUTifQULZCBRpp9UPOQQeICOWCwT_cunS-T5pmGGspvekNG1fpvbM1Tm-SDwUxqeB4N0ez5cHtGU_FtMgw14xeCoaTuxgkfvOTGefqObzg8g0ozEy9L_lKFqwZcB0yCgjDwMqHTGC00S2fciT6nfh01xXgwZUFcFqDezJUYBYot6hAb-kklLHkMkALTBhGldQ_fAezMELOK7MrQlYtraNqaVB86b-0KPzP-ib47vUVJKy6ESfRgCnXNIwTfiSlWx9F2nQcNgv3Z3CyoHACPSzavExwQdqkFBbl_ftdHAIG81ZMA2slWvVj0VbGmZpp4fD5tOVGke_iEbKBdv11zXJU9GdMcOCNZB_NmKgLjOA-c5BmBW9RROqntcT-V_9bkU37ii2LCjbQP9KS7qet9KLkwKSU6rsyGkOxMMjwhGnoPmiQOquzUtIwS_aKyyRizRGBF-yPpV63xNKXHLXQiy0p9jGi3gqIBlI8Go0x2IgmI6LoBtFcIb_k87rVeSpSQHTOT0yIhdP5LYpwYfHjWcla1L6urNokEgLIgs803u6d1f4euolky4x7LK4dQEYIqiJPgja1XzVPWW7ff0NYFUEDVmCa-PF1dtM5e97rkmQNLgoijkmNJoTrcpuOmZTgJUMKEPdd8iyoSZIbVhsCPYZAbU9s3AROXLTM1pfQcLbL1Yvn_EU4zmQWyktdAWpAl_vn56Lv8QBsT1iLCR9BFfSYBgmibum2dN_VQHIilAT1Dab2UAZmufjlwRJnV0R4XOhGvXBrTIrwp5MgafmtGE9L3raZeTjGfdfEP5MR2S2d3tfRhNeBSE2lbUMuT6zvj4Iuu6Qv-ojZtAbPd_D3kgJd3C2jxFUmCJK-IP0V3bXu_EWmR-JUtPKXPuOoElXuEzuTMP73jsADE-M6Ifqexzelc0uQxQGpYT39dCe1dNbtfP7Zus9Rn_fKCiJnD5g3Y5KWB5H-7j_qmH2FRm3WeJiOaR_dSKV4T8ZC-h1ui-OSJjVegRNsxs5DtcVW9etJNlGFaEheJLPEDBg-qj425uKQw7Xxpw8ShwgEm_kNiF4hsvK86JXUe1jNuVSruwbKqE6HJ665UjIN0eJzVLnryHeah0n9iIcIor58ajuwY825MPHDYzMHg3yaKGAScoOq2hLYmsXE3qPD-ye3hGcQbPjUg_7iHqXV7A_aP-LYNxXwed8CeUgb9EckviovQV34v8bRaHKZY3pPK5HKbDxjqUW5jHvwZ85uKJ892AXOq_Gqotl5Shc1_bXuRPIyIrKfK2I-VnRiE74P4Vac4-FYSQetcPxg9bJRB2D3dHflWLcu2mbc-Ee_lJT0UjFg5fEayb6EEWYlG0_wi4pyUDiYxBi7TJ4ulSVFu9Mqry9G7iv4yOh31cvxBW4NwmztlgWKYAmwyuP6qjk_sRgDWeTXez4sLB5yoauWvQKI65x1_fkV0UFahnba7eAz4P4NXWatoTYzLVaOnwZj6-zqiu6DpbXMDmDgg_-oFCNYiRViRHyXGr7Hk3LnHlmHnJEmLZk3YFNiydZmLYhU4B4ik3AUYP31D2DiLCXN5DLVTIINo9cIImd67_opjE3kdo1aPvlPk_Msfb6_ZZQxOPRt_X8YuxIzetrtSy7POToE0vteO3pV2ptyANiQ4kFXyRJsgOkqWXQyOMK8zFnhCgwMtBfG4J2cZs0yiEM-lQgPA4Uv4G5gttnoOFxfuatibhmQThg6R4MeL19HwPFFnhTIF6IroqxsJCQBgeDyRyc8DOQL6WGykttRWk2qZHOrFfl0nQEzfeqdMmTfVj6kkjo0VkELUbJGmB1yMdqVCaMlR6wMoz_-NBeBoiYXu177-tFsmExEvnu0_IcBs_eeQwcWBa0wbw1NRWNVxkieDWpucPhqfHbAw5K-v3QC8Nl-OcaASAlMGmrTpGnA8QsEf56ucZg0UygjVg-uVC0P5Y5NxA3sjY2AnMrwz1bBaVz1HpJ24l4g3hRTfsVRMeK4ThR458_9Gs_dd_VfL1i5ycxgVCMWf41GYS4vGnRC5M6QUIbXbYJphOox8BFb5UrbtJo1NLMOVRgiG-yTvWDQNId18z4C3FltpK78NaOsAdIiwSxgT0mHCcc2IuvziI2pdudD_PeWRcZpd5tPpSrGStFWEaPGI2lHA8s9r13gWXHFjPhW_pAr_sFTW5f0tVbTk3_UYtSXcqd4WQjce1RCE14sm_GHhTr7glO-sr-UZ10-CWZcAx3_EtkpJCy5Gkt9nJCJjqGr5zyw6X6fl1Qo5Y8o8_chJi0P8lFONrTm0VvUgH8kv0IWH36ywiq_S9GNEdx8WE9yUlLP8QoistKgiCKFXH8U8ea6ixLH1aQ8HrX2YoJ5Mf2qPw9UmKgfs4gvHAcYetsb7wvb04wvAIgfgYro0pxSbSFKqqatcYktLGKfn59W0Rv_PUJy20ODuc21JnExAla9j6axKY6_nToV6Ywy6pnX4152qCqvD9o-OM2FBuyz_XN784WGTQ1Km4osU9qqEWHpD2nFh8rIzZ2Lg3X3E__Ord5yhPoxaT2eewmj1A3Phzm8lTwgi0jtWs-qbCOBkj8g923kNBw7-BIUDPr1LrugiZiwtkZOShoCMgRfdOLN0ZcyxRrGGeKWqBKWFUb8YnDrJ219sLvXbF-RHW_xl3PPjdBN4l9GdNthK6PUNezC38MAGfnr45Q9OM2XwRZm8JxWBCaOtWFOUHQhGeWeR3ecFruT0qLxsjvBZoN_ROcUMaqua536a9WEu9Nj3l6fgCOlXZgDXnQybI6ESj8yfBURJQSDfXSL8lB-if0HF2kEz0kHNxA0EW_X8SdtCgdJUwdEEVHp97XNwcbFfC_zQLl9x5HobsupJaoxymY_R4kjyzGEm4kMzCZ-zYfCnlm7TZipSj2yIvlhXl7d5eCV72PZos_MSQZWsu2MZZYayxCR5FfDKA"
+    },
+    {
+        "domain": ".login-ext.identity.oraclecloud.com",
+        "expirationDate": 1717941005,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "TAsessionID",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "a1d81445-4a75-47ac-b2ad-7d02a44755b3|NEW"
+    }
+]
