@@ -1,1 +1,3 @@
-# This repo will contain fantastic and fun projects
+# This repo contains the following projects:
+1. Advanced HTML: where we learned how to use all HTML tags out there to structre a web page using several tasks.
+2. ...
