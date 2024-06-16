@@ -1,1 +1,3 @@
-My readme file for the 0x02-CSS_advanced project
+# CSS Advanced
+## some intresting points to note ##
+- Inline styles take precedence over stylesheets, so a inline style will always prevail over any other.
