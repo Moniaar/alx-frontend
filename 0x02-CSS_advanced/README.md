@@ -58,6 +58,7 @@ rem: font size, padding, margin em: media queries. Kepp in mind that: REM is rel
 The expression CSS reset came from Eric Meyer who created a reset stylesheet in 2007, to reduce browser inconsistencies. Since then, different solutions came out: Normalize.css, sanitize.css, reboot for Bootstrap… .
 ### Grid systems ###
 Grid systems started to be used to layout books and magazines. They started to be used more recently to also create and define website’s layout. Before flexbox and css grid, grid systems were using floats to organize the content. In addition, Before CSS Grid, developers were already using the word grid to define the responsive grid system used to build websites.
+
 Keep in mind that Animation is a shorthand property. Only animation-duration and animation-name are required, here is an example of its syntax:
 ```
 @keyframes example {
@@ -76,3 +77,5 @@ Keep in mind that Animation is a shorthand property. Only animation-duration and
   animation-duration: 3s;
 }
 ```
+## Refernces: ##
+1. [css cheatSheet](https://cssreference.io/)
