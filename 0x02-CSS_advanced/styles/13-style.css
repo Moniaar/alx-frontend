@@ -18,14 +18,13 @@ a:link {
     text-decoration: none;
 }
 a:visited {
-  font-style: italic;
+    font-style: italic;
 }
 a:hover {
-  text-decoration: underline;
+    text-decoration: underline;
 }
 a:active {
-  color: color-light-grey;
-}
+    color: color-light-grey;
 }
 .visually-hidden {
     display: none;
