@@ -496,7 +496,6 @@ ul.row {
 .col-1-3 {
     width: 33.33%;
     float: left;
-    /* padding to the half root of the element */
     padding: 0.5rem;
 }
 .col-1-2 {
