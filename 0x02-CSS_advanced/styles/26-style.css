@@ -406,7 +406,7 @@ a:active {
     text-decoration: none;
 }
 .card-testimonial {
-    text-alignment: center;
+    text-align: center;
 }
 .card-testimonial .card-avatar {
     border-radius: 50%;
