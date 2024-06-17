@@ -503,14 +503,16 @@ ul.row {
     float: left;
     padding: 0.rem;
 }
+.footer {
+    padding: var(--footer-padding);
+}
+
 .footer-copyright {
     margin: 0;
     font-size: var(--font-size-small);
     color: var(--text-color);
 }
-.footer {
-    padding: var(--footer-padding);
-}
+
 .footer ul {
     text-align: right;
 }
