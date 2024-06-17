@@ -270,7 +270,7 @@ body {
     font-weight: var(--font-weight-regular);
     line-height: var(--line-height-base);
 }
-header {
+.header {
     padding: var(--header-padding);
 }
 .header-logo {
