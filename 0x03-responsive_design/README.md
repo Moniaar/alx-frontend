@@ -6,3 +6,4 @@
 | 2 |
 
 - Note: the best practice is to unifiy all similar breakpoints at the end of the CSS file, but here we added the media quiery because of readability purposes.
+### How to create the 3 lines of menu options found in any website using only CSS? (Hamburger icon):
