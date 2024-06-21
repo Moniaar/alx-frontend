@@ -354,16 +354,17 @@ a:active {
 }
 
 @media (max-width: 480px) {
-  html {
-    font-size: 57%;
-  }
+    html {
+        font-size: 75%;
+    }
 }
 
 @media (min-width: 481px) and (max-width: 767px) {
-  html {
-    font-size: 60%;
-  }
+    html {
+        font-size: 60%;
+    }
 }
+
 /* Helpers
       ============================= */
 
@@ -492,7 +493,7 @@ ul.row {
     overflow: inherit;
 }
 
-.header .menu-btn:checked + .menu-icon .navicon {
+.header .menu-icon:checked + .menu-icon .navicon {
     background: transparent;
 }
 
@@ -853,6 +854,21 @@ ul.row {
 
 .card-work:hover .card-title {
     opacity: 1;
+}
+
+@media (max-width: 767px) {
+    .card-work .card-inner {
+        --text-color: var(--color-white);
+        position: relative;
+    }
+
+    .card-work .card-title {
+        opacity: 1;
+    }
+
+    .card-work .card-title a {
+        padding: 2rem 1rem 0 1rem;
+    }
 }
 
 /* Card SERVICES
